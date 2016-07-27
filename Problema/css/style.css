@@ -1,0 +1,61 @@
+.banner{
+	background-image: url(../img/banner.jpg);
+	height: 650px;
+}
+.drbanner{
+	position: relative;
+	top: 50px;
+	max-width: 100%;
+}
+h1{
+	font: 3em Arial ;
+	color: white;
+}
+hr{
+	background-color: grey;
+  	height:2px;
+  	width: 90%;
+}
+.bprincipal{
+	display: inline-block;
+	padding: 3% 3%;
+	color: #01DF01;
+	border: 0.2em #01DF01 solid;
+	border-radius: 20%;
+}
+.spa{
+	color: white;
+}
+p{
+	position: relative;
+	padding: 1% 1%;
+	color: white;
+}
+.span{
+	position: absolute;	
+	left: 25%;
+}
+.boton{
+	border-radius: 10%;
+	padding: 3% 3%;
+	color: white;
+	font-weight: bold;
+	display: block;
+	width: 40%;
+}
+.imgb{
+	width: 10%;
+}
+.b1{
+		border: 0.2em yellow solid;
+		background: yellow;
+
+}
+.b2{
+		border: 0.2em orange solid;
+		background: orange;
+}
+.images{
+	display: inline-block;
+	width: 100%;
+}
